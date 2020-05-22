@@ -50,6 +50,7 @@
 - **Create a new page named “Star Wars Starships” and add it to the left menu of the
   dashboard.**<br/>
   Created a menu item as mentioned, used the _Nucleo - spaceship_ icon
+  ![Menu](./Documentation/images/1_menu.png)
   
 - **Create a table to list Star Wars Starships with the 4 columns**<br/>
   Used the same table from the Argon Dashboard “Tables view” example.<br/>
