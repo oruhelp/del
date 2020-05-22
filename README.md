@@ -75,10 +75,9 @@ Created a custom modal as a presentation component. This modal can be used for b
 
 - **Make the “Edit” button load a Bootstrap modal with the same form structure as the create modal, but having an “Update” button instead of “Create”.**<br/>
 As I considered Name as the key/id, I made it as read-only.<br/>
-  ![Edit Modal Dialog](./Documentation/images/5_editModal.png)
+  ![Edit Modal](./Documentation/images/editModal.png)<br/>
 
 - **Make the modal “Update” button update the respective table row with the new data.**<br/>
-  ![Edit Modal](./Documentation/images/editModal.png)<br/>
   ![Row Updated](./Documentation/images/editedRow.png)
 
 ### Additional Improvements
